@@ -1,6 +1,6 @@
 # OLED Bongo Cat
 
-![](http://s6.uplod.ir/i/01025/6a9jwtch0kvb.gif )
+<img src="https://github.com/wizard-gg/oledbongocat/raw/main/cat.gif" width="262" height="98" />
 
 QMK based OLED Bongo Cat Animation
 
