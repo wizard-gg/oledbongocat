@@ -1,4 +1,4 @@
-# oledbongocat
+# OLED Bongo Cat
 QMK based OLED Bongo Cat Animation
 
 ## Usage
